@@ -1,0 +1,2 @@
+Note : Fetch télécharge uniquement.
+Note 2 : Pull télécharge ET fusionne.
